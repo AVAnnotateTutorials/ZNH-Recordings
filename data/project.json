@@ -24,11 +24,53 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Information",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Material",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Voice",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background Noise",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Information"
+        },
+        {
+          "tag": "Tape",
+          "category": "Material"
+        },
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        },
+        {
+          "tag": "Environment",
+          "category": "Background"
+        },
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Voice"
+        }
+      ]
     },
     "created_at": "2026-02-10T19:58:13.209Z",
-    "updated_at": "2026-03-05T16:40:27.250Z",
+    "updated_at": "2026-03-12T17:04:41.195Z",
     "generate_pages_site": false
   },
   "annotations": {},
