@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Men singing"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Background noise"
-        }
-      ],
-      "uuid": "1a8f3fc9-c956-49ad-af58-524b36d5a2af"
-    },
-    {
       "start_time": 48,
       "end_time": 52,
       "annotation": [
