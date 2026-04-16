@@ -1,1 +1,3094 @@
-{"annotations":[],"set":"Default","event_id":"7a23928c-aab7-4fd0-ac26-d98c951f1af3","source_id":"a53df0f7-ce9a-440c-9ae4-d7697fd214bb"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background noise"
+        }
+      ],
+      "uuid": "1a8f3fc9-c956-49ad-af58-524b36d5a2af"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2714 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "05ef4742-803a-49fa-9d12-c254e595ce0c"
+    },
+    {
+      "start_time": 53,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "40f84e24-7f4c-44bb-829b-28ab2e73acbb"
+    },
+    {
+      "start_time": 62,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "773e8443-ee90-4c92-b1ae-29c8e0de63e1"
+    },
+    {
+      "start_time": 184,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "ab4906c7-8119-4a7c-9d82-07a6ba0b8ad0"
+    },
+    {
+      "start_time": 341,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2715 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "9135d4fe-f5fc-4249-9143-975a51871ce5"
+    },
+    {
+      "start_time": 347,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "ddec4e66-e4cd-4dbc-99c4-d61a0e041a11"
+    },
+    {
+      "start_time": 359,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "38e34ebf-47fb-46b1-8a59-e4af893928de"
+    },
+    {
+      "start_time": 524,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "c4155ad7-afae-404d-beef-20b0b512f462"
+    },
+    {
+      "start_time": 638,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2715 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "e4650209-ec83-41e7-a061-cd74ae3e0d91"
+    },
+    {
+      "start_time": 646,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "85587498-87ae-48e4-8f09-dc8245fec0f7"
+    },
+    {
+      "start_time": 686,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "913faef3-5eb9-453b-aa35-641df21c3c9e"
+    },
+    {
+      "start_time": 697,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "2ff59ef0-1aa3-4f18-bbc1-b524ab84ff38"
+    },
+    {
+      "start_time": 771,
+      "end_time": 782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "a1c208d0-598f-4792-ae8d-87b69f9fb506"
+    },
+    {
+      "start_time": 782,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "08488c1e-dc48-4b28-9d29-ea6e0c0748b4"
+    },
+    {
+      "start_time": 802,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "3af6ad3e-52fb-4b9f-ac38-5e6cf26b49be"
+    },
+    {
+      "start_time": 825,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "1ce3b045-91a1-4235-94e5-3eed90f94521"
+    },
+    {
+      "start_time": 837,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "248f9fdd-5d13-434d-9b54-80a6eb80f93f"
+    },
+    {
+      "start_time": 872,
+      "end_time": 885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and woman singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "01ad5e93-5a09-4db4-ab29-faa5d62d8047"
+    },
+    {
+      "start_time": 885,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "f03f8f46-f015-4573-bb00-16c79b6e64c2"
+    },
+    {
+      "start_time": 936,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2716 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "a6554f83-33f5-487d-b061-2d22bab94625"
+    },
+    {
+      "start_time": 944,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "27246300-ca18-46e4-9624-8883a5795c32"
+    },
+    {
+      "start_time": 950,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "f4466e2c-bf67-47af-a95b-0a1e19da4231"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "247485ef-0d8b-48f8-97c4-b7ac5208bf10"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "540fa31e-c84c-4d41-8a30-4f728ad29c82"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2716 B1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "053e8a2b-df4d-4417-8413-5b9b59c606d8"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. Let's play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "3598f122-4a87-4a27-b40d-f9345f6fc133"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Women singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "6074cf5a-cd24-48b1-ad91-49c42230bf1b"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2717 A1, 2, and 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "2b127eed-134a-483a-97c2-790f520fe5ae"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 87000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "b903a3b3-09bd-4410-a719-331a5280c1d6"
+    },
+    {
+      "start_time": 87000,
+      "end_time": 87240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "4fff0b4a-9497-48a0-8362-77cb950b1fb7"
+    },
+    {
+      "start_time": 87240,
+      "end_time": 88380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "ae35c2e7-9757-48c3-a753-e3ccab4f8b79"
+    },
+    {
+      "start_time": 88380,
+      "end_time": 88620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "78feaa80-a23d-497d-8b0f-82bb66d68cea"
+    },
+    {
+      "start_time": 88620,
+      "end_time": 89100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "68aad71d-bf5c-4a9f-82c1-ded2f35379f6"
+    },
+    {
+      "start_time": 89100,
+      "end_time": 89340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing with instruments"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "ba8ed410-3dd3-4488-83f5-cdbd2f490f16"
+    },
+    {
+      "start_time": 89340,
+      "end_time": 90540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "262fc727-329d-4b36-b023-480b5a3b2305"
+    },
+    {
+      "start_time": 91200,
+      "end_time": 96300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "59c90de2-460a-40bf-9330-19cb808bc9fd"
+    },
+    {
+      "start_time": 96480,
+      "end_time": 100020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instruments playing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "5355f83e-830e-4006-b568-9debce26dcf0"
+    },
+    {
+      "start_time": 100140,
+      "end_time": 100380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2717 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "c376ed80-5018-4b55-ba6e-501f4246ac57"
+    },
+    {
+      "start_time": 100740,
+      "end_time": 100800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "399b2f1b-7195-433f-b49c-38c66bf2c63b"
+    },
+    {
+      "start_time": 100860,
+      "end_time": 111960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "341ed35c-637b-46a7-9b57-98faf1815a62"
+    },
+    {
+      "start_time": 112320,
+      "end_time": 118200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "c3251f0c-9111-4f19-8184-537f72e6f63a"
+    },
+    {
+      "start_time": 118380,
+      "end_time": 118620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2718 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "a51466f9-f7ff-4c1b-bbd8-2f858c192d04"
+    },
+    {
+      "start_time": 118800,
+      "end_time": 118800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "eb95a4a2-07ba-449d-a429-7dedd2ea9d0f"
+    },
+    {
+      "start_time": 118860,
+      "end_time": 128400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman singing with ukulele"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "93ccde8c-a094-4bef-a4fe-9e8312489989"
+    },
+    {
+      "start_time": 128880,
+      "end_time": 129000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible] Now go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a08075d6-9ac1-41f3-8757-44a6dfdd87b5"
+    },
+    {
+      "start_time": 129000,
+      "end_time": 134880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "f66bb2f3-d4a5-4987-af6d-d761cbbcc4e3"
+    },
+    {
+      "start_time": 135420,
+      "end_time": 135660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2718 B1, 2 and 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "f76466bb-5559-4e94-be90-8f993045e2dc"
+    },
+    {
+      "start_time": 135780,
+      "end_time": 136440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "426fa057-37a3-41b2-9e1f-e9a9087dc081"
+    },
+    {
+      "start_time": 136440,
+      "end_time": 145980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "b82fbf57-9162-4f78-86bc-11294221bae4"
+    },
+    {
+      "start_time": 146340,
+      "end_time": 146340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright sing!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e8863f05-cbb1-4251-9067-1872629444ef"
+    },
+    {
+      "start_time": 146460,
+      "end_time": 149280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "6527213c-8ea2-4bf7-97d8-3c845e03f3cb"
+    },
+    {
+      "start_time": 149460,
+      "end_time": 149580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go ahead. Sing it again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8a32faa4-ddcf-4f53-b859-c73765ed65d2"
+    },
+    {
+      "start_time": 149580,
+      "end_time": 149580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children singing and clapping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "40725ae2-0f72-42a1-a9fc-9959b6b503f3"
+    },
+    {
+      "start_time": 150480,
+      "end_time": 150480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Environment",
+          "category": "Background"
+        }
+      ],
+      "uuid": "fd515be0-6185-4762-b29b-aa2aed9464ea"
+    },
+    {
+      "start_time": 152520,
+      "end_time": 152640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2720 A1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "49900893-5a48-49fa-afc9-62eb65e73fcd"
+    },
+    {
+      "start_time": 153900,
+      "end_time": 153900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "fcfb05d4-dcb1-45d1-92bd-fad5a2b272cb"
+    },
+    {
+      "start_time": 160380,
+      "end_time": 160380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men humming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "13678f8c-d818-49e1-aa9a-d8349deb7862"
+    },
+    {
+      "start_time": 163200,
+      "end_time": 163200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Environment",
+          "category": "Background"
+        }
+      ],
+      "uuid": "3ec969d5-a494-4ac8-83a1-1f57d41c62bf"
+    },
+    {
+      "start_time": 163560,
+      "end_time": 163680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3135 A"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "b771b12a-e6bd-48ef-8016-e7a65bfc8683"
+    },
+    {
+      "start_time": 163800,
+      "end_time": 163800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Zora Neal Hurston. I was born in Eatonville, FLorida. I'm 35 years old. This song that I'm going to sing is a railroad song that I found on a railroad gang near Miami and was song to me by Max Ford."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e440355b-2585-49bd-812d-c8da81bfdee3"
+    },
+    {
+      "start_time": 165000,
+      "end_time": 165000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long ago was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8834aba4-22ce-4f22-8e6d-35498a192ccc"
+    },
+    {
+      "start_time": 165120,
+      "end_time": 165120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was in 1930."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a7f0d6e1-2c7a-4b16-be47-8bbec184cc08"
+    },
+    {
+      "start_time": 165360,
+      "end_time": 165360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did you happen to be going around getting songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "18d8fdcd-c940-4195-a297-6798f82a79c4"
+    },
+    {
+      "start_time": 165480,
+      "end_time": 165480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was collecting folk material for Columbia University as part of the Barnard College, Columbia University."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "1bef4122-3427-4902-837c-8e612c075fb9"
+    },
+    {
+      "start_time": 165960,
+      "end_time": 165960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the song called?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a70f6539-1629-483e-a184-d17dc4641bc9"
+    },
+    {
+      "start_time": 166020,
+      "end_time": 166020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They call it Gonna see my long-haired babe and it's a railroad spiking song and the rhythm is kept with a spike and a hammer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "788a2e41-6f26-4ba8-bb98-573946372a0c"
+    },
+    {
+      "start_time": 166620,
+      "end_time": 166620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Will you try to emphasize, give me the approximate rhythm of the hammer with the stick by hitting it against that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "bc3b5d4a-cf16-48eb-8d78-616460108323"
+    },
+    {
+      "start_time": 166980,
+      "end_time": 166980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "fed79704-7937-46a8-9632-8a6728461c03"
+    },
+    {
+      "start_time": 167220,
+      "end_time": 167220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH sings 'Gonna See My Long-Haired Babe'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "1d6398bf-90c3-45b2-8725-cfb5800d3f00"
+    },
+    {
+      "start_time": 173040,
+      "end_time": 173040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let them hammers ring, boy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "4679c1aa-ff3d-4427-8323-6d9bc4a78517"
+    },
+    {
+      "start_time": 173280,
+      "end_time": 173280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see you, you seem to be hitting down twice for a hammer. Why is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "6ff298ed-b5b2-4977-bd52-64d3891573b9"
+    },
+    {
+      "start_time": 173700,
+      "end_time": 173700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, the men face each other with hammers and they call on each other; they're breasted, they stand breast to breast and one comes down and the other one comes down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "5d58496e-f7bf-4c24-aebb-f9ef204644aa"
+    },
+    {
+      "start_time": 174180,
+      "end_time": 174180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Immediately afterwards?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "c1a32c50-4d41-4965-8cc2-1f381ae12765"
+    },
+    {
+      "start_time": 174240,
+      "end_time": 174240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, one comes down [strike, strike]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8e99b7a4-c5ed-4ab5-b3c2-f2cc046abeb2"
+    },
+    {
+      "start_time": 174420,
+      "end_time": 174420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see [strike, strike] and how long is that between the double strikes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a85582d4-4c0f-4608-ad9e-535b45b55a71"
+    },
+    {
+      "start_time": 174780,
+      "end_time": 174780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The minute that one goes down, the other is on the upstroke and comes right down behind it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "71618a1f-e5de-40fb-abed-023ae94b2ccd"
+    },
+    {
+      "start_time": 175020,
+      "end_time": 175020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And who does the singing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "c6abe209-631b-4788-90b8-f68266319801"
+    },
+    {
+      "start_time": 175080,
+      "end_time": 175080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "4cdba27b-220f-4c09-b5cd-d0c71e1f2db1"
+    },
+    {
+      "start_time": 175560,
+      "end_time": 175560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this for a whole crew of men?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e36cec73-de5b-42e7-8dbc-e925333c9493"
+    },
+    {
+      "start_time": 175620,
+      "end_time": 175620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "cadfc25c-a7c2-44ab-b0fd-9a1331285482"
+    },
+    {
+      "start_time": 176100,
+      "end_time": 176100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I'm asking you is if you hear that you only hear the one man singing on a whole section of track."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b293330c-cfbb-4f3e-a51e-2dd02950e7e6"
+    },
+    {
+      "start_time": 176460,
+      "end_time": 176460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not all the time, because different ones have verses they want to put in themselves and so they jump in and after they start the song but the singing liner always starts it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "01d880c4-8017-4709-a2f8-4db1896461b3"
+    },
+    {
+      "start_time": 176940,
+      "end_time": 176940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well now look, uh, the only thing is that you were giving a long piece of singing without the rhythm of the hammer and I want to know approximately how often that comes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b131e6af-50a6-4ca3-b78c-6fd5ae3ecc5e"
+    },
+    {
+      "start_time": 177540,
+      "end_time": 177540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, they often do that and then after that they [distortion] get in there but they [distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "633f2c0e-f59a-45b6-8233-e51fdaf67f88"
+    },
+    {
+      "start_time": 178140,
+      "end_time": 178140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3135 B1 and 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "498e30cc-5f68-4ef6-aed7-65ccc563513e"
+    },
+    {
+      "start_time": 178440,
+      "end_time": 178440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "b6d85d15-7e67-4405-8b2f-1dd40de324d4"
+    },
+    {
+      "start_time": 178680,
+      "end_time": 178680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, this song I got in Callahan, Florida, which is a railroad center in the northern part of Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "83745d17-5b76-472f-a119-d836f5398ce5"
+    },
+    {
+      "start_time": 179220,
+      "end_time": 179220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inaudible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tape",
+          "category": "Material"
+        }
+      ],
+      "uuid": "40f4c8ed-f940-4a8f-adb3-22c3b01baac9"
+    },
+    {
+      "start_time": 179340,
+      "end_time": 179340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "379937b4-6cc8-4e53-9b6f-d6601a641bbc"
+    },
+    {
+      "start_time": 179820,
+      "end_time": 179820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What kind of song is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "f599617c-eff0-40d9-8e61-f700901f6992"
+    },
+    {
+      "start_time": 179940,
+      "end_time": 179940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that, uh, and also some songs that they be used to, the rhythm to work it into place and then the boss hollers 'Bring 'em a hammer gang' and they start to spike it down. And this is a chant for lining the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "bafbf297-b150-4a8e-bf93-1eb86262a2af"
+    },
+    {
+      "start_time": 181740,
+      "end_time": 181740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "503c108a-f119-41c4-8f97-555608d2340f"
+    },
+    {
+      "start_time": 183060,
+      "end_time": 183060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd like you to do that again. But this time, when they have . . . What do they call the irons they use?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b03d9e5f-0425-4fab-b9c4-65c2bc59d7ab"
+    },
+    {
+      "start_time": 183360,
+      "end_time": 183360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They call it a lining bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "ec057275-8e45-465d-b37d-3af04569e9c5"
+    },
+    {
+      "start_time": 183420,
+      "end_time": 183420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. The lining bar. When they work but don't you hear the clink of it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a10211d1-372c-473f-9714-f1984412cc46"
+    },
+    {
+      "start_time": 183720,
+      "end_time": 183720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b20b3e1a-b4e1-4058-a086-2c7ff16f26be"
+    },
+    {
+      "start_time": 184080,
+      "end_time": 184080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They hit against it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "ad992627-6f1c-4420-b582-a202fba5095b"
+    },
+    {
+      "start_time": 184140,
+      "end_time": 184140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it's under it. You see, it's just like on this. It's a crow bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "f94e05fd-bea5-4cda-a622-c3ca8a1a5093"
+    },
+    {
+      "start_time": 184380,
+      "end_time": 184380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because over in Mississippi, they showed me by hitting the thing. They said that the way that they did it was by several men taking a short hit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b331023c-0503-451b-a5c9-10afef9a1dca"
+    },
+    {
+      "start_time": 184920,
+      "end_time": 184920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I've seen them put it between their legs this way and put it back and they get this, this splange under the rail, and then they 'heh, heh'. You know, like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "f6a64e31-6860-4509-93c8-7d6a0273a078"
+    },
+    {
+      "start_time": 185460,
+      "end_time": 185460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, now what do they do? Are they pulling it, pulling it --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "430502f2-75ac-4a05-a686-1dadd8816d0c"
+    },
+    {
+      "start_time": 185580,
+      "end_time": 185580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pulling it backwards, they're moving it backwards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "31dce718-448f-4971-b67d-0171e514eacc"
+    },
+    {
+      "start_time": 185640,
+      "end_time": 185640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, they have it underneath and they're using the lever to go forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "2fff79b4-9bc6-4797-8cb3-d2af6b26b372"
+    },
+    {
+      "start_time": 185880,
+      "end_time": 185880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8ea25e17-5e07-4325-93dd-182dc5019df1"
+    },
+    {
+      "start_time": 186000,
+      "end_time": 186000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "9ace91dd-ec29-4252-8145-9d3f4f05b9f4"
+    },
+    {
+      "start_time": 186060,
+      "end_time": 186060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And all the men, you know because it's always straining and they 'heh'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "75fb1809-b228-4ffc-83a7-ccc09a191832"
+    },
+    {
+      "start_time": 186180,
+      "end_time": 186180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About how many are there on a bar?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "82663669-06d0-424f-a49e-ce67fa7d6f71"
+    },
+    {
+      "start_time": 186240,
+      "end_time": 186240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, some time it's about 7 or 8 on at one time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "7f05dace-4aa0-4a30-9cfb-ceed0ca61388"
+    },
+    {
+      "start_time": 186540,
+      "end_time": 186540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmhm. Well, I suppose you try it and you sing it over again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "cfacd1ea-46f0-419b-a073-6eb0e22084a8"
+    },
+    {
+      "start_time": 186720,
+      "end_time": 186720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "93fcfaf8-c251-4c7a-a546-b7bc4d250361"
+    },
+    {
+      "start_time": 186780,
+      "end_time": 186780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or chant it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "5c16fa79-69a1-44d6-a509-886549417430"
+    },
+    {
+      "start_time": 187020,
+      "end_time": 187020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH chants 'Let's Shake It'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "9ef0c2d8-6d99-465c-bd80-12695aa038f0"
+    },
+    {
+      "start_time": 188580,
+      "end_time": 188580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e36b4eb0-7869-4a74-bee2-d84ec3bda0be"
+    },
+    {
+      "start_time": 189240,
+      "end_time": 189240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's it used for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "1e26c496-129b-4a41-8a27-d4b8aa38640b"
+    },
+    {
+      "start_time": 189300,
+      "end_time": 189300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Used for spiking down the rails."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "40221ab4-ee9e-431a-9635-5800e388b4f0"
+    },
+    {
+      "start_time": 189480,
+      "end_time": 189480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH chants 'That Old Black Gal'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "395557b4-98f6-417e-a26b-69115d5aa200"
+    },
+    {
+      "start_time": 193680,
+      "end_time": 193680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3136 A"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "71f5be04-cda2-445e-b712-3e9fb658ad70"
+    },
+    {
+      "start_time": 193860,
+      "end_time": 193860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland, Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "14023ca3-34bf-4919-924e-473bd8a0e0cf"
+    },
+    {
+      "start_time": 194640,
+      "end_time": 194640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About how long ago?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "729a3737-dae4-42c8-a78e-23d70f3debb6"
+    },
+    {
+      "start_time": 194760,
+      "end_time": 194760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I gathered that in '33, 1933."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "764d608c-4de9-4a81-aadc-34f21445a9ae"
+    },
+    {
+      "start_time": 195120,
+      "end_time": 195120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH sings 'Shove it over'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "02682d4e-b0f2-4586-bc93-c7ad3d512839"
+    },
+    {
+      "start_time": 201660,
+      "end_time": 201660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is again for lining?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "29abbdda-05e1-477f-a67a-47a56da9b902"
+    },
+    {
+      "start_time": 201780,
+      "end_time": 201780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a lining rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e0378825-1ff5-438a-918f-932afe3c9db7"
+    },
+    {
+      "start_time": 201780,
+      "end_time": 201960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now where is the movement?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e6437412-c0b8-4944-b73c-a8b215d8faf0"
+    },
+    {
+      "start_time": 201960,
+      "end_time": 202320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "77b32a0b-c588-4a79-afc0-a9e0defdde71"
+    },
+    {
+      "start_time": 202320,
+      "end_time": 202560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, this song gives them quite a lot of rest in between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "bb6b6c8c-2d97-4362-94a2-21de69545118"
+    },
+    {
+      "start_time": 202560,
+      "end_time": 202620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right a lot of rest in between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "a79a4ec0-5bb5-4166-a4de-0f7f4878f14a"
+    },
+    {
+      "start_time": 202620,
+      "end_time": 202680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a harder shove?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "3ca64782-ca56-47c4-9a78-03e29cc2ae23"
+    },
+    {
+      "start_time": 202680,
+      "end_time": 202860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a harder shove at the end. And they say 'heh', they all go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "99f8abf0-478d-469e-a5e2-b67bf89ccecd"
+    },
+    {
+      "start_time": 202860,
+      "end_time": 203160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems to have had a different effect from the other lining one you gave, I mean that one about Mobile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "c0e907c7-1833-43a0-a697-aa456e5fe732"
+    },
+    {
+      "start_time": 203160,
+      "end_time": 203760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, but someone was short and someone only just come to the mood of the liner. And the men work whatever song he sung, they work that rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8c4c4033-5e71-4edc-9dbe-63c887a850c3"
+    },
+    {
+      "start_time": 203760,
+      "end_time": 206340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, now when the men are lining, they put the rail down, and then of course the captain, he's crouched straddle of it and uh, looks down it so he can tell when it's lined up in exact line with the others. And if they carry it, well he'll say shove it over and if they carry it too far, he'll say send it back and when they get it exactly in line, he'll tell em 'join it ahead' but then they corrupted that to 'join ahead' and all of them say 'join ahead' for 'join it ahead'. And, uh, so, uh, this song is about a lining and the rhythm goes with, they put this lining bar, this long steel bar, crow bar, between their legs so they have greater purchase and pull back on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b3c55278-4482-4b70-99d2-eab4239e704e"
+    },
+    {
+      "start_time": 206340,
+      "end_time": 206520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, wait a minute. They pull back . . . and how are they facing in relation to the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "63a5a7b1-7047-4f19-86bc-7febc3f79b9b"
+    },
+    {
+      "start_time": 206520,
+      "end_time": 206700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their back is to the rail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "49569a10-b6a6-4ec6-a5ee-d75bb05abf7a"
+    },
+    {
+      "start_time": 206700,
+      "end_time": 206880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In other words, they're pulling up on the bar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e0376e72-9dfa-4d59-9ddd-30539fbef270"
+    },
+    {
+      "start_time": 206880,
+      "end_time": 207180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "f46931d9-862d-40e2-9c2b-987e1c0f45c1"
+    },
+    {
+      "start_time": 207180,
+      "end_time": 207360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what do they do? Do they, how do they get it under the bar, the rail?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "8b80de24-e072-4ae1-948f-5c810e48c422"
+    },
+    {
+      "start_time": 207360,
+      "end_time": 207660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They just push the flange of this lining bar under the rail and then pull back on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "2345c266-1f88-4ed6-a5e6-854ff2ad6b63"
+    },
+    {
+      "start_time": 207660,
+      "end_time": 207780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do they have to look back at it or do they just feel it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "39046907-f413-4cca-aa8f-dd196d476f1a"
+    },
+    {
+      "start_time": 207780,
+      "end_time": 208200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, they can just feel it. Sometimes they look back, you know, but most of them, they just can feel it and they send it back on there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "07234307-8779-4210-bd01-cc65ac5ef9b7"
+    },
+    {
+      "start_time": 208200,
+      "end_time": 208800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, uh, you were saying, you were explaining that there's different rhythms that they have. Are there any particular times when a faster on or a slower one would be used?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "655a6f5d-a000-440f-a737-8b7ce7ea5bd0"
+    },
+    {
+      "start_time": 208800,
+      "end_time": 210480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's different; it's not any particular time except just the feeling of the singing liner. Whatever song he starts. If it's a fast rhythm they work fast; if its's a slow one, well they work, you know, a little slower but they get just as much work done, it seems, somehow or another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "b7879331-e812-4b9b-8999-2ebecc7e276e"
+    },
+    {
+      "start_time": 209880,
+      "end_time": 210180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3136 B"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Information"
+        }
+      ],
+      "uuid": "a6144875-188e-4cee-af9f-b6a32b51d24e"
+    },
+    {
+      "start_time": 210480,
+      "end_time": 210660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZNH singing low."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "46b3b0ee-ea18-42c7-9d17-a9eec6d1f7ad"
+    },
+    {
+      "start_time": 210660,
+      "end_time": 210720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "efc574fe-509d-400a-8738-c0bf6eb0cc47"
+    },
+    {
+      "start_time": 210720,
+      "end_time": 211800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, this song I'm going to sing is a lining rhythm and I'm going to call it Mule on the Mount though you can start with any verse you want and give it a name and it's the most widely distributed work song in the United States and it has innumerable verses and whatnot about everything under the sun and it's a lining rhythm though they sometimes sing it just [cut off]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "7fe68f17-0c1d-4fa9-86e7-6cc114090015"
+    }
+  ],
+  "set": "Default",
+  "event_id": "7a23928c-aab7-4fd0-ac26-d98c951f1af3",
+  "source_id": "a53df0f7-ce9a-440c-9ae4-d7697fd214bb"
+}
