@@ -3065,6 +3065,27 @@
         }
       ],
       "uuid": "7fe68f17-0c1d-4fa9-86e7-6cc114090015"
+    },
+    {
+      "start_time": 0,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Men singing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background noise"
+        }
+      ],
+      "uuid": "41ee9287-63b4-4435-99c8-9a3b17ae296d"
     }
   ],
   "set": "Default",
